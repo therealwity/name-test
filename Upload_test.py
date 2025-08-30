@@ -1,3 +1,3 @@
 print('Github!')  
-print('안녕하세요 ')
+print('안녕하세요 제 이름은 톰입니다.')
 
